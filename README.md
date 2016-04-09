@@ -1,0 +1,1 @@
+TWRP device tree for Xiaomi Mi Pad Mocha. Omni build.
